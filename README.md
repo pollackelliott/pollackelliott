@@ -1,12 +1,14 @@
-# Hi, I'm Elliott Pollack 👋
+# Hi, I'm Elliott Pollack
 
 Business Intelligence Analyst based in Chicago, IL, focused on building end-to-end analytics solutions with Power BI, SQL, Python, and cloud-based data platforms.
 
 I enjoy transforming raw data into actionable insights through scalable data models, automated reporting pipelines, interactive dashboards, and data-driven applications. Professionally, I develop enterprise Power BI solutions supporting financial, operational, and HR reporting. Outside of work, I build personal projects that combine analytics, software development, and sports.
 
+This GitHub showcases both professional-quality analytics projects and personal applications that demonstrate my interests in business intelligence, automation, software development, and sports analytics.
+
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Business Intelligence
 - Power BI
@@ -18,7 +20,7 @@ I enjoy transforming raw data into actionable insights through scalable data mod
 - SQL
 - Snowflake
 - Python
-- Pandas
+- pandas
 - NumPy
 
 ### Development
@@ -30,23 +32,30 @@ I enjoy transforming raw data into actionable insights through scalable data mod
 
 ---
 
-## 🚀 Featured Projects
+# Portfolio Highlights
 
-### 🥎 Softball Team Website and Record Book
-A Baseball-Reference-inspired website preserving more than a decade of team history through searchable statistics, records, awards, game results, and player profiles.
+## [🏈 SEC Football Survivor](https://github.com/pollackelliott/sec-survivor-football-2026)
+
+A full-stack web application that automates SEC football survivor pools through Supabase-powered pick submission, standings, scoring, and season management.
 
 **Highlights**
-- Historical database design
-- Statistical reporting
-- Interactive record book
-- Dynamic team and player pages
+
+- JavaScript
+- Supabase
+- SQL
+- Automated scoring
+- Responsive web application
+- Foundation for multiple survivor pool platforms
 
 ---
 
-### 🏀 Basketball Survivor Pools
-A full-stack web application that automates College Basketball Survivor  contests through Supabase-powered pick submission, standings, and scoring.
+## [🏀 SEC Basketball Survivor](https://github.com/pollackelliott/sec-survivor-basketball-2026)
+
+An expansion of the survivor platform for college basketball, reusing and extending the underlying architecture while adapting the application to a new sport and season format.
 
 **Highlights**
+
+- Shared platform architecture
 - JavaScript
 - Supabase
 - SQL
@@ -55,23 +64,54 @@ A full-stack web application that automates College Basketball Survivor  contest
 
 ---
 
-### 🏈 Football Survivor Pools
-The original survivor application that served as the foundation for the basketball platform, featuring automated scoring, standings, and game management.
+## [🏈 Big Ten Football Survivor](https://github.com/pollackelliott/big-ten-survivor-football-2026)
+
+A companion deployment of the survivor platform customized for Big Ten football, demonstrating the flexibility and reusability of the application's architecture.
+
+**Highlights**
+
+- Multi-conference deployment
+- Shared codebase and architecture
+- Automated scoring
+- Responsive web application
 
 ---
 
-### 🏀 Fantasy College Basketball
-A data-driven college basketball project built around advanced player statistics, automated data collection, and interactive scoring and analytics.
+## [🥎 Softball Team Website & Record Book](https://github.com/pollackelliott/onehitwonders)
+
+A Baseball-Reference-inspired website preserving more than a decade of team history through searchable statistics, records, awards, game results, and player profiles.
+
+**Highlights**
+
+- Historical database design
+- Statistical reporting
+- Interactive record book
+- Dynamic player and team pages
+- Custom data visualization
 
 ---
 
-## 📜 Certifications
+## [🏀 Fantasy College Basketball](https://github.com/pollackelliott/fantasy-college-basketball)
+
+A data-driven fantasy college basketball application built around advanced player statistics, automated data collection, scoring, and analytics.
+
+**Highlights**
+
+- Sports analytics
+- Python
+- SQL
+- Automated data collection
+- Statistical analysis
+
+---
+
+## Certification
 
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 ---
 
-## 📫 Connect
+## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/elliott-pollack-3b761182/
-- **Email:** pollack.elliott@gmail.com
+- **Email:** mailto:pollack.elliott@gmail.com
