@@ -114,4 +114,4 @@ A data-driven fantasy college basketball application built around advanced playe
 ## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/elliott-pollack-3b761182/
-- **Email:** mailto:pollack.elliott@gmail.com
+- **Email:** [pollack.elliott@gmail.com](mailto: pollack.elliott@gmail.com)
