@@ -1,6 +1,6 @@
 # Hi, I'm Elliott Pollack
 
-Business Intelligence Analyst based in Chicago, IL, focused on building end-to-end analytics solutions with Power BI, SQL, Python, and cloud-based data platforms.
+Business Intelligence Analyst based in Chicago, Illinois, focused on building end-to-end analytics solutions with Power BI, SQL, Python, and cloud-based data platforms.
 
 I enjoy transforming raw data into actionable insights through scalable data models, automated reporting pipelines, interactive dashboards, and data-driven applications. Professionally, I develop enterprise Power BI solutions supporting financial, operational, and HR reporting. Outside of work, I build personal projects that combine analytics, software development, and sports.
 
